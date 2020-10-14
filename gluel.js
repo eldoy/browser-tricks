@@ -44,4 +44,3 @@ const gluel = (sidebar, options = {}) => {
   window.addEventListener('scroll', update)
   setTimeout(update, 1)
 }
-export default gluel

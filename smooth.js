@@ -31,4 +31,3 @@ const smooth = (el) => {
   }
   window.requestAnimationFrame(move)
 }
-export default smooth
